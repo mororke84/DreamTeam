@@ -1,0 +1,15 @@
+.footer {
+  border-top: 1px solid $medium-gray;
+  padding: 15px;
+  background-color: $fawn;
+  color: $dark-gray;
+
+  p {
+    margin-bottom: 0px;
+    font-size: $font-size-base;
+  }
+
+  .fa-heart {
+    color: $pink;
+  }
+}

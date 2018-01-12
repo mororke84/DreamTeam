@@ -1,2 +1,2 @@
 # DreamTeam
-Online Equine Simulation Community
+Equine Simulation Game Platform
